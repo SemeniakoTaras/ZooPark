@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooPark.WebAPI", "ZooPark.WebAPI\ZooPark.WebAPI.csproj", "{6A575219-0C20-4FDD-9F9C-B0E8B58A9993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooPark.Domain", "ZooPark.Domain\ZooPark.Domain.csproj", "{B2EA4AE3-F171-47EF-87E5-0A6AF9949451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooPark.Repository", "ZooPark.Repository\ZooPark.Repository.csproj", "{F15A1BEC-EDCC-4B5A-B89E-4969A8A4E3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooPark.Business", "ZooPark.Business\ZooPark.Business.csproj", "{068B0122-84F5-4029-A1D9-287EF27DFD99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A575219-0C20-4FDD-9F9C-B0E8B58A9993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A575219-0C20-4FDD-9F9C-B0E8B58A9993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A575219-0C20-4FDD-9F9C-B0E8B58A9993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A575219-0C20-4FDD-9F9C-B0E8B58A9993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EA4AE3-F171-47EF-87E5-0A6AF9949451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EA4AE3-F171-47EF-87E5-0A6AF9949451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EA4AE3-F171-47EF-87E5-0A6AF9949451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EA4AE3-F171-47EF-87E5-0A6AF9949451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15A1BEC-EDCC-4B5A-B89E-4969A8A4E3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15A1BEC-EDCC-4B5A-B89E-4969A8A4E3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15A1BEC-EDCC-4B5A-B89E-4969A8A4E3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15A1BEC-EDCC-4B5A-B89E-4969A8A4E3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068B0122-84F5-4029-A1D9-287EF27DFD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068B0122-84F5-4029-A1D9-287EF27DFD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068B0122-84F5-4029-A1D9-287EF27DFD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068B0122-84F5-4029-A1D9-287EF27DFD99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D5F5561-94AF-436E-AFE1-25A9A264AECD}
+	EndGlobalSection
+EndGlobal

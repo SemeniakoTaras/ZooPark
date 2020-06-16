@@ -3,3 +3,11 @@
 ################################################################################
 
 /Part1/ZooPark/ZooPark.Business/bin/Debug/netcoreapp3.1
+/Part1/ZooPark/ZooPark.Business/obj
+/Part1/ZooPark/ZooPark.Domain/bin/Debug/netcoreapp3.1
+/Part1/ZooPark/ZooPark.Domain/obj
+/Part1/ZooPark/ZooPark.Repository/bin/Debug/netcoreapp3.1
+/Part1/ZooPark/ZooPark.Repository/obj
+/Part1/ZooPark/ZooPark.WebAPI/bin/Debug/netcoreapp3.1
+/Part1/ZooPark/ZooPark.WebAPI/obj
+/Part1/ZooPark/.vs/ZooPark
